@@ -1,0 +1,57 @@
+Alur Pendaftaran Online Mahasiswa Baru
+Universitas Airlangga
+_____________________________________________________________________________________
+Berlaku untuk semua pendaftaran semua strata (Penerimaan Dalam negeri)
+A. Registrasi Akun Pendaftaran
+Sebelum melakukan pengisian formulir pendaftaran online, Anda diwajibkan mempunyai akun
+pendaftaran. Akun ini akan digunakan sebagai login untuk masuk ke dalam Sistem Pendaftaran
+Online Universitas Airlangga.
+Langkah-langkahnya adalah sebagai berikut :
+1. Buka web pendaftaran Universitas Airlangga : http://pendaftaran.unair.ac.id.
+2. Klik menu Registrasi.
+3. Setelah tampilan muncul, kemudian isikan Nama, No Telp / HP (disarankan HP), Email,
+Password yang diinginkan. Email & Password ini akan digunakan untuk login
+4. Klik tombol [Registrasi], Jika sudah melakukan regitrasi peserta dapat langsung
+melakukan login untuk pendaftaran.
+5. Proses registrasi akun pendaftaran sudah selesai, anda hanya cukup melakukan proses ini
+sekali saja. Jika sudah pernah memiliki akun sebelumnya maka calon peserta bisa
+mengubah penerimaan dengan masuk ke akun sebelumnya pilih pemilihan penerimaan –
+klik disini – lalu pilih jalur baru yang diinginkan.
+B. Pengisian Formulir Pendaftaran dan Upload Berkas Persyaratan
+Pengisian formulir pendaftaran online langkah-langkahnya adalah sebagai berikut :
+1. Buka web pendaftaran Universitas Airlangga : http://pendaftaran.unair.ac.id
+2. Login menggunakan akun registrasi dengan Email & Password yang sudah didaftarkan
+sebelumnya. Setelah login, tampilan pertama adalah alur proses pendaftaran yang harus
+ditempuh seorang peserta. - Jika belum mempunyai akun registrasi ikuti proses “A.
+Registrasi Akun Pendaftaran”
+3. Ikuti langkah ke-1 yaitu pemilihan jenjang seleksi dengan cara klik menu atas Pendaftaran
+-> Pemilihan Penerimaan
+4. Pilih penerimaan yang diinginkan, kemudian klik [Daftar].
+5. Kemudian piih jenis formulir / jenis jurusan (Saintek/Soshum/Campuran), setelah dipilih
+klik [Simpan]. Maka akan muncul tampilan formulir pendaftaran
+6. Isi formulir sesuai data diri Anda, dan pastikan tidak ada yang terlewat. Setelah selesai
+terisi semua klik [Simpan].
+7. Setelah mengisi formulir pendaftaran, maka langkah selanjutnya adalah mengupload
+berkas persyaratan. Untuk mengupload berkas persyaratan klik menu Pendaftaran ->
+Upload Berkas.
+8. Upload satu-persatu file syarat yang dibutuhkan, perhatikan juga peringatan tentang syarat
+file yang bisa diupload beserta informasi materai yang harus dipakai untuk berkas
+pernyataan. Setelah diupload semua, kemudian klik tombol [Submit untuk diverifikasi].
+9. Proses pengisian formulir dan upload file persyaratan sudah selesai. Anda tinggal
+menunggu hasil verifikasi oleh panitia penerimaan dengan mengecek secara periodik di
+menu Verifikasi -> Hasil Verifikasi.
+10. Jika anda menginginkan mendaftar kembali jalur atau jenjang yang berbeda dimohon
+untuk menyelesaikan pendaftaran yang pertama terlebih dahulu. Lalu silahkan mengubah
+kembali pilihan penerimaan dengan cara masuk ke akun sebelumnya pilih pemilihan
+penerimaan – klik disini – lalu pilih jalur atau jenjang baru yang diinginkan.
+Peringatan : Setelah dokumen terverifikasi, maka calon peseta tidak dapat melakukan
+perubahan data, pilihan program studi maupun berkas persyaratan.
+C. Pembayaran Voucher dan Cetak Kartu Ujian
+Setelah proses verifikasi selesai, Anda bisa melakukan pembayaran voucher ke bank mitra
+(Bank Mandiri/BNI/BRI/Bank Jatim) dengan melihat kode voucher dan besar biaya yang harus
+dibayarkan di menu Verifikasi -> Kode Voucher. Pembayaran voucher ini dilakukan untuk
+mendapatkan pin voucher sebagai syarat untuk bisa mencetak kartu ujian.
+Setelah melakukan pembayaran di bank, anda akan menerima pin voucher yang bisa
+digunakan untuk mencetak kartu ujian melalui menu di halaman pendaftaran Verifikasi ->
+Cetak Kartu.
+Catatan : Pembayaran voucher bisa dilakukan melalui Teller bank, ATM atau eBanking

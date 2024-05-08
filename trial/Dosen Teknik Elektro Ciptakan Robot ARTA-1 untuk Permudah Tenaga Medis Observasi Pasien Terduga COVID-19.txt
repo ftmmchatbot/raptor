@@ -1,0 +1,34 @@
+Dosen Teknik Elektro Ciptakan Robot ARTA-1 untuk Permudah Tenaga Medis Observasi Pasien Terduga COVID-19
+Juli 30, 2021
+
+FTMM NEWS – Airlangga Robotic Triage Assistant (ARTA-1) merupakan robot yang digunakan sebagai asisten medis untuk pasien terpapar COVID-19. Proses triase pada ARTA-1 terdiri dari pengukuran tanda-tanda vital serta anamnesis akan menentukan apakah orang yang diduga terpapar virus COVID-19 harus mendapatkan penanganan khusus atau tidak.
+
+“Pengukuran kondisi vital pasien COVID-19, yakni pada suhu, tinggi, dan berat badan dilakukan dengan sensor yang terintegrasi dengan papan Arduino. Lalu proses anamnesa dilakukan dengan tanya jawab otomatis yang dilakukan dengan pergerakan gestur tangan,” ungkap Prisma Megantoro, S.T., M.Eng selaku dosen Teknik Elektro FTMM UNAIR.
+
+Hasil dari proses triase, sambungnya, dibuat secara otomatis untuk merekomendasikan jenis penanganan lanjut oleh tenaga medis. Sistem instrumentasi dari ARTA-1 berinteraksi dengan pengguna melalui beberapa sensor serta LCD untuk mengukur suhu tubuh, berat, dan tinggi badan pasien (orang yang diduga terpapar virus COVID-19).
+
+Sensor suhu non-kontak MLX90614 dimanfaatkan sebagai alat untuk mendeteksi suhu tubuh, sedangkan berat badan diukur menggunakan sensor load cell LCS-2160. Selanjutnya, sensor VL53l1x dipakai untuk mengukur tinggi badan pengguna.
+
+“Ada dua saklar inframerah bertipe E18-D80NK yang digunakan; satu untuk mendeteksi keberadaan pengguna dan satunya untuk mendeteksi gerakan tangan pengguna ketika menjawab pertanyaan selama proses anamnesis,” paparnya.
+
+ 
+
+Pemakaian Sensor
+Semua pembacaan sensor dikendalikan oleh Arduino untuk menjalankan perintah pengguna yang dibuat pada aplikasi komputer. Interaksi pengguna, proses triase, dan anamnesis, serta pembuatan laporan dilakukan oleh aplikasi komputer tersebut. Laporan medis akan dikirim secara otomatis ke akun email petugas medis.
+
+Operasional ARTA-1 ini terdiri dari beberapa tahapan yang harus dilalui oleh pengguna. Pertama dengan mendapatkan identitas melalui pemindaian E-KTP-nya. Tahap ini diperoleh data NIK, nama, tanggal lahir, dan umur. Tahap kedua memeriksa kondisi tubuh dengan mengukur suhu, berat badan, dan tinggi badan. Sedangkan tahap ketiga dengan melakukan tes anamnesis, kemudian mengkonversi biner hasil tes tersebut. Langkah keempat adalah menampilkan hasil triase dan membuat dokumen, kemudian mengirimkannya ke paramedis untuk penanganan lanjut.
+
+Sistem instrumentasi pada ARTA-1 perlu dianalisis, karena hal tersebut dapat digunakan untuk menentukan performa pengukuran dan pengendalian sistem. Analisis ini dilakukan untuk setiap sensor yang digunakan pada sistem dengan metode karakterisasi yang berbeda-beda.
+
+“Karakterisasi sensor-sensor menggunakan dua parameter, yaitu akurasi dan presisi. Presisi adalah faktor yang menunjukkan seberapa konsisten suatu instrumen memberikan nilai tertentu dari beberapa pengukuran yang ditunjukkan dengan standar deviasi diperoleh dari setiap pengukuran,” imbuhnya.
+
+ 
+
+Akurasi
+Dalam hal pengukuran, akurasi merupakan faktor utama yang mempengaruhi performa sensor. Akurasi menunjukkan seberapa tepat suatu instrumen dalam memberikan suatu nilai tertentu yang diperoleh dari instrumen ukur yang sudah standar.
+
+“Perbandingan antara nilai standar dan nilai uji akan memberikan persen kesalahan dengan batas nilai 10 persen yang menunjukkan seberapa akurat pengukuran uji,” tandasnya.
+
+Perancangan sistem instrumentasi pada ARTA-1 memiliki performa yang cukup baik. Pengukuran suhu tubuh memiliki akurasi dan presisi lebih dari 99 persen. Pengukuran berat badan memiliki presisi pada level 86,60 persen, dan akurasi yang cukup tinggi yaitu 96,52 persen. Pengukuran berat badan juga menunjukkan performa yang baik dengan akurasi 98,53 persen dan presisi 94,92 persen.
+
+Sepasang sensor jarak jauh yang digunakan untuk mendeteksi gerakan tangan selama proses anamnesis menunjukkan performa yang bagus dan akurat pada jarak kurang dari 18 cm. Penggunaan sensor tersebut dipertimbangkan berdasarkan kebutuhan pemeriksaan triase yang aman, nyaman, dan tanpa sentuhan bagi orang yang terpapar COVID-19. Tentunya ini memudahkan pekerjaan petugas medis, serta mengurangi resiko paparan COVID-19.(*)(pm/wil)

@@ -1,0 +1,812 @@
+text,embd,cluster
+"Alur Pendaftaran Online Mahasiswa Baru
+Universitas Airlangga
+_____________________________________________________________________________________
+Berlaku untuk semua pendaftaran semua strata (Penerimaan Dalam negeri)
+A. Registrasi Akun Pendaftaran
+Sebelum melakukan pengisian formulir pendaftaran online, Anda diwajibkan mempunyai akun
+pendaftaran. Akun ini akan digunakan sebagai login untuk masuk ke dalam Sistem Pendaftaran
+Online Universitas Airlangga.
+Langkah-langkahnya adalah sebagai berikut :
+1. Buka web pendaftaran Universitas Airlangga : http://pendaftaran.unair.ac.id.
+2. Klik menu Registrasi.
+3. Setelah tampilan muncul, kemudian isikan Nama, No Telp / HP (disarankan HP), Email,
+Password yang diinginkan. Email & Password ini akan digunakan untuk login
+4. Klik tombol [Registrasi], Jika sudah melakukan regitrasi peserta dapat langsung
+melakukan login untuk pendaftaran.
+5. Proses registrasi akun pendaftaran sudah selesai, anda hanya cukup melakukan proses ini
+sekali saja. Jika sudah pernah memiliki akun sebelumnya maka calon peserta bisa
+mengubah penerimaan dengan masuk ke akun sebelumnya pilih pemilihan penerimaan –
+klik disini – lalu pilih jalur baru yang diinginkan.
+B. Pengisian Formulir Pendaftaran dan Upload Berkas Persyaratan
+Pengisian formulir pendaftaran online langkah-langkahnya adalah sebagai berikut :
+1. Buka web pendaftaran Universitas Airlangga : http://pendaftaran.unair.ac.id
+2. Login menggunakan akun registrasi dengan Email & Password yang sudah didaftarkan
+sebelumnya. Setelah login, tampilan pertama adalah alur proses pendaftaran yang harus
+ditempuh seorang peserta. - Jika belum mempunyai akun registrasi ikuti proses “A.
+Registrasi Akun Pendaftaran”
+3. Ikuti langkah ke-1 yaitu pemilihan jenjang seleksi dengan cara klik menu atas Pendaftaran
+-> Pemilihan Penerimaan
+4. Pilih penerimaan yang diinginkan, kemudian klik [Daftar].
+5. Kemudian piih jenis formulir / jenis jurusan (Saintek/Soshum/Campuran), setelah dipilih
+klik [Simpan]. Maka akan muncul tampilan formulir pendaftaran
+6. Isi formulir sesuai data diri Anda, dan pastikan tidak ada yang terlewat. Setelah selesai
+terisi semua klik [Simpan].
+7. Setelah mengisi formulir pendaftaran, maka langkah selanjutnya adalah mengupload
+berkas persyaratan. Untuk mengupload berkas persyaratan klik menu Pendaftaran ->
+Upload Berkas.
+8. Upload satu-persatu file syarat yang dibutuhkan, perhatikan juga peringatan tentang syarat
+file yang bisa diupload beserta informasi materai yang harus dipakai untuk berkas
+pernyataan. Setelah diupload semua, kemudian klik tombol [Submit untuk diverifikasi].
+9. Proses pengisian formulir dan upload file persyaratan sudah selesai. Anda tinggal
+menunggu hasil verifikasi oleh panitia penerimaan dengan mengecek secara periodik di
+menu Verifikasi -> Hasil Verifikasi.
+10. Jika anda menginginkan mendaftar kembali jalur atau jenjang yang berbeda dimohon
+untuk menyelesaikan pendaftaran yang pertama terlebih dahulu. Lalu silahkan mengubah
+kembali pilihan penerimaan dengan cara masuk ke akun sebelumnya pilih pemilihan
+penerimaan – klik disini – lalu pilih jalur atau jenjang baru yang diinginkan.
+Peringatan : Setelah dokumen terverifikasi, maka calon peseta tidak dapat melakukan
+perubahan data, pilihan program studi maupun berkas persyaratan.
+C. Pembayaran Voucher dan Cetak Kartu Ujian
+Setelah proses verifikasi selesai, Anda bisa melakukan pembayaran voucher ke bank mitra
+(Bank Mandiri/BNI/BRI/Bank Jatim) dengan melihat kode voucher dan besar biaya yang harus
+dibayarkan di menu Verifikasi -> Kode Voucher. Pembayaran voucher ini dilakukan untuk
+mendapatkan pin voucher sebagai syarat untuk bisa mencetak kartu ujian.
+Setelah melakukan pembayaran di bank, anda akan menerima pin voucher yang bisa
+digunakan untuk mencetak kartu ujian melalui menu di halaman pendaftaran Verifikasi ->
+Cetak Kartu.
+Catatan : Pembayaran voucher bisa dilakukan melalui Teller bank, ATM atau eBanking","[-0.01071737  0.00599807 -0.00285949 ... -0.0113872  -0.03272045
+ -0.00631269]",[2.]
+"Alur Pengajuan Legalisir dan Transkrip Nilai
+1. Mengunduh template Surat Rekomendasi di https://bit.ly/FormatPengajuanFTMM
+2. Membuat Surat Permohonan
+3. Semua berkas dikirim ke email kemahasiswaan@ftmm.unair.ac.id dengen Subject ""Transkrip/Legalisir KHS_Nama_NIM""
+4. Permohonan akan diproses 3-7 hari kerja
+5. Setelah surat permohonan disetujui akan dikirim softfile melalui email mahasiswa yang bersangkutan. Apabila tidak disetujui, maka mahasiswa akan dihubungi oleh pihak akademik melalui whatsapp atau email.
+6. Surat dalam bent hardfile data diambil pada hari kerja pukul 08.00-16.00 di Ruang Akademik, GKB C Lantai 1
+
+NB: Untuk dapat membuka link template, harus menggunakan email domain unair.","[-0.01504488  0.00274064  0.00765188 ... -0.0123366  -0.03831416
+  0.00140143]",[2.]
+"Alur Pengajuan Surat Keterangan Mahasiswa Aktif (SKMA)
+1. Mengunduh template Surat Permohonan SKMA di https://bit.ly/FormatPengajuanFTMM
+2. Membuat Surat Permohonan kemudian meminta persatujuan dan tandatangan dari dosen wali
+3. Melengkapi lampiran berupa Scan KTM dan KHS semester terakhir
+4. Semua berkas dikirim ke email kemahasiswaan@ftmm.unair.ac.id dengen Subject ""SKMA_Nama_NIM""
+5. Permohonan akan diproses 3-7 hari kern
+6. Setelah surat permohonan disetujui akan dikirim softfile melalui email mahasiswa yang bersangkutan. Apabila tidak disetujui, maka mahasiswa akan dihubungi ole phial akademik melalui whatsapp atau email.
+7. Surat dalam bent hardcopy data diambil pada hari kerja pukul 08.00-16.00 di Ruang Akademik, GKB C Lantai 1
+
+NB: Untuk dapat membuka link template, harus menggunakan email domain unair.","[-0.02185482  0.02091398 -0.00180572 ... -0.00892813 -0.04853142
+ -0.00238761]",[2.]
+"Alur Pengajuan Surat Keterangan
+1. Mengunduh template Surat Rekomendasi di https://bit.ly/FormatPengajuanFTMM
+2. Membuat Surat Permohonan kemudian meminta persatujuan dan tandatangan dari dosen wali
+3. Melengkapi lampiran berupa Scan KTM, KHS semester terakhir,
+4. Semua berkas dikirim ke email kemahasiswaan@ftmm.unair.ac.id dengen Subject ""SuratKeterangan_Nama_NIM""
+5. Permohonan akan diproses 3-7 hari kerja
+6. Setelah surat permohonan disetujui akan dikirim softfile melalui email mahasiswa yang bersangkutan. Apabila tidak disetujui, maka mahasiswa akan dihubungi oleh pihak akademik melalui whatsapp atau email.
+7. Surat dalam bent hardcopy data diambil pada hari kerja pukul 08.00-16.00 di Ruang Akademik, GKB C Lantai 1
+
+NB: Untuk dapat membuka link template, harus menggunakan email domain unair.","[-0.02602292 -0.0230354   0.00394815 ... -0.01034824 -0.04760387
+ -0.00711994]",[2.]
+"Alur Pengajuan Surat Rekomendasi
+1. Mengunduh template Surat Rekomendasi di https://bit.ly/FormatPengajuanFTMM
+2. Membuat Surat Permohonan kemudian meminta persatujuan dan tandatangan dari dosen wali
+3. Melengkapi lampiran berupa Scan KTM, KHS semester terakhir, dan Form Rencana Konversi bagi yang ingin mengajukan Surat Rekomendasi MSIB
+4. Semua berkas dikirim ke email kemahasiswaan@ftmm.unair.ac.id dengen Subject ""Rekomendasi_Nama_NIM""
+5. Permohonan akan diproses 3-7 hari kerja
+6. Setelah surat permohonan disetujui akan dikirim softfile melalui email mahasiswa yang bersangkutan. Apabila tidak disetujui, maka mahasiswa akan dihubungi ole phial akademik melalui whatsapp atau email.
+7. Surat dalam bent hardcopy data diambil pada hari kerja pukul 08.00-16.00 di Ruang Akademik, GKB C Lantai 1
+
+NB: Untuk dapat membuka link template, harus menggunakan email domain unair.","[-0.02983827 -0.03240436  0.02003143 ... -0.02267709 -0.03385649
+ -0.00390633]",[2.]
+"BANGGA EV Charging Station Ikuti ASSIE 2023
+Desember 1, 2023
+
+FTMM NEWS â€“ Mahasiswa Universitas Airlangga khususnya Fakultas Teknologi Maju dan Multidisiplin tidak pernah berhenti untuk terus berinovasi dalam menghasilkan produk unggulan. Melalui program Matching Fund 2023 yaitu program kerja sama antara Universitas Airlangga dengan PT. Barata Indonesia (Persero), berhasil menciptakan produk terbarukan yaitu BANGGA EV Charging Station. 
+
+BANGGA EVCS merupakan produk sistem pengisian hasil pengembangan yang menawarkan kemudahan dan kontribusi terbuka kepada semua pihak. Sebuah kolaborasi antara Universitas Airlangga dengan P.T. Barata Indonesia yang hadir sebagai solusi permasalahan tersebut. Dengan melibatkan mahasiswa, kerja sama tersebut melahirkan sebuah sistem pengisian yang terintegrasi dengan aplikasi. Juga dengan fitur-fitur yang memberi kemudahan kepada pengguna.
+
+Pengerjaan Bangga EVCS berlangsung selama 5 bulan. Melibatkan 16 orang mahasiswa Fakultas Teknologi Maju dan Multidisiplin, dengan bimbingan langsung dosen Fakultas Teknologi Maju dan Multidisiplin yaitu Dr. Agus Mukhlisin, S.T., M.T. 
+
+Rangkaian pengerjaan terbagi menjadi 2, yaitu oleh mahasiswa Fakultas Teknologi Maju dan Multidisiplin dan PT Barata Indonesia (Persero). Proses pengerjaan oleh mahasiswa terdiri atas design dan perakitan pcb, perangkaian panel, pemrograman spklu, pembuatan jackstand, serta pembuatan dan pengintegrasian aplikasi. Tidak hanya mahasiswa Fakultas Teknologi Maju dan Multdisiplin saja, proses pengerjaan Bangga EV Charging Station juga dilakukan oleh PT Barata Indonesia (Persero) yaitu pembuatan housing panel.
+
+
+Keunggulan dari Bangga EVCS  dengan EVCS yang sudah ada adalah terletak  pada fitur aplikasi yang tidak hanya memudahkan para pengguna, namun juga dapat memudahkan mitra kerja lainnya yang hal tersebut tidak terdapat pada EVCS yang sudah beredar di Indonesia.
+
+Proses yang panjang dengan berbagai kendala ini tidak terbuang sia-sia. Pada hari Jumat (1/12) Bangga EVCS yang bekerja sama antara Universitas Airlangga dengan PT Barata Indonesia (Persero), wakil rektor bidang akademik, Prof. Bambang Sektyari merilis produk unggulan ini dalam kesempatan di ASSIE yang berlangsung di Grand City Surabaya.
+
+Penulis : Andini
+
+Editor : Andri Hariyanto
+
+","[-0.00013559 -0.04990417 -0.00398034 ... -0.0035776  -0.04891643
+  0.0467293 ]",[0.]
+"Biaya Pendaftaran
+Biaya pendaftaran Program Sarjana Jalur Mandiri Universitas Airlangga adalah sebesar :
+
+Rp. 300.000,- untuk Kelompok SAINTEK/SOSHUM (2 pilihan prodi)
+Rp. 500.000,- untuk Kelompok Campuran (SOSHUM dan SAINTEK) (2 pilihan prodi)","[-0.00914221 -0.02384329  0.0418434  ...  0.00208457 -0.03266687
+ -0.00873535]",[2.]
+"Digitalisasi UMKM dan Pendidikan Berkualitas di Dusun Kepetingan
+Oktober 3, 2023
+
+FTMM NEWS  – Dalam era globalisasi saat ini, dunia mengalami perubahan yang begitu cepat. Kemajuan teknologi, terutama dalam bidang informasi dan komunikasi, telah mengubah cara kita berkomunikasi, bekerja, dan belajar. Di tengah perubahan ini, pendidikan berkualitas menjadi salah satu kunci utama yang dapat mendorong pertumbuhan dan perkembangan suatu negara. Negara-negara yang mampu mengadaptasi sistem pendidikannya dengan tuntutan zaman akan memiliki keunggulan kompetitif di kancah internasional.
+
+Sustainable Development Goals (SDGs) merupakan serangkaian tujuan global negara-negara anggota Perserikatan Bangsa-Bangsa untuk menciptakan dunia yang lebih baik dan berkelanjutan. Salah satu tujuan utama dari SDGs adalah Quality Education. Ini menekankan pentingnya pendidikan berkualitas sebagai fondasi dalam pembangunan berkelanjutan. Pendidikan yang berkualitas tidak hanya menghasilkan lulusan yang cerdas, tetapi juga individu yang kritis, kreatif, dan memiliki kepedulian sosial.
+
+Namun, Quality Education dalam konteks SDGs bukan hanya berkaitan dengan akses pendidikan formal. Lebih dari itu, tujuan ini juga menyoroti bagaimana masyarakat, terutama generasi muda, dapat memanfaatkan ilmu dan teknologi untuk meningkatkan kualitas hidup mereka. Dengan pendidikan yang relevan dan adaptif, individu dapat mempersiapkan diri menghadapi tantangan masa depan, memanfaatkan peluang yang ada, dan berkontribusi aktif dalam pembangunan masyarakat dan negara.
+
+Dalam semangat mewujudkan SDGs terkait Quality Education, HMTI mengadakan program kerja (proker) dengan judul “Desa Mitra” di Dusun Kepetingan, Sidoarjo, Jawa Timur. Melalui proker ini, mahasiswa dan masyarakat saling berbagi pengetahuan. Mahasiswa membawa materi mengenai digitalisasi UMKM, sebuah langkah penting dalam mempersiapkan UMKM menghadapi era digital, sementara masyarakat setempat memberikan pelajaran berharga tentang realitas UMKM di lapangan.
+
+Kolaborasi dengan telemedicine khusus Vaskular
+
+Digitalisasi UMKM tidak hanya meningkatkan efisiensi dan produktivitas, tetapi juga memberikan peluang bagi masyarakat untuk mengakses informasi dan pelatihan yang relevan. Dengan demikian, mereka dapat meningkatkan kualitas produk atau jasa, serta memperluas jangkauan pasar mereka. Ini sejalan dengan prinsip Quality Education dalam SDGs, di mana pendidikan harus relevan dengan kebutuhan zaman dan memberikan manfaat langsung bagi masyarakat.
+
+Salah satu highlight kegiatan ini adalah sesi telemedicine khusus Vaskular (iVascular) yang dioperasikan selama kegiatan berlangsung. Melalui zoom call, masyarakat Dusun kepetingan, Sidoarjo, Jawa Timur berkesempatan berdiskusi dengan salah satu dosen Teknik Industri Universitas Airlangga dr. Niko Azhari Hidayat, Sp.BTKV(K) yang merupakan pendiri dari produk Vaskular Indonesia. Diskusi ini memberikan wawasan lebih dalam mengenai pentingnya teknologi dalam bidang kesehatan, khususnya pembuluh darah.
+
+Kegiatan Desa Mitra ini mendapat apresiasi dari berbagai pihak dan diharapkan dapat menjadi contoh bagi kegiatan serupa di masa mendatang. Melalui pengabdian seperti ini, HMTI Universitas Airlangga menunjukkan komitmennya dalam menerapkan ilmu untuk kemaslahatan masyarakat.
+
+Penulis : Mochammad Revanza
+
+Editor : Ananta Adhi Wardana","[-0.01332529  0.01771068  0.01244595 ...  0.01315618 -0.05465396
+  0.00019605]",[4.]
+"Dosen Teknik Elektro Ciptakan Robot ARTA-1 untuk Permudah Tenaga Medis Observasi Pasien Terduga COVID-19
+Juli 30, 2021
+
+FTMM NEWS – Airlangga Robotic Triage Assistant (ARTA-1) merupakan robot yang digunakan sebagai asisten medis untuk pasien terpapar COVID-19. Proses triase pada ARTA-1 terdiri dari pengukuran tanda-tanda vital serta anamnesis akan menentukan apakah orang yang diduga terpapar virus COVID-19 harus mendapatkan penanganan khusus atau tidak.
+
+“Pengukuran kondisi vital pasien COVID-19, yakni pada suhu, tinggi, dan berat badan dilakukan dengan sensor yang terintegrasi dengan papan Arduino. Lalu proses anamnesa dilakukan dengan tanya jawab otomatis yang dilakukan dengan pergerakan gestur tangan,” ungkap Prisma Megantoro, S.T., M.Eng selaku dosen Teknik Elektro FTMM UNAIR.
+
+Hasil dari proses triase, sambungnya, dibuat secara otomatis untuk merekomendasikan jenis penanganan lanjut oleh tenaga medis. Sistem instrumentasi dari ARTA-1 berinteraksi dengan pengguna melalui beberapa sensor serta LCD untuk mengukur suhu tubuh, berat, dan tinggi badan pasien (orang yang diduga terpapar virus COVID-19).
+
+Sensor suhu non-kontak MLX90614 dimanfaatkan sebagai alat untuk mendeteksi suhu tubuh, sedangkan berat badan diukur menggunakan sensor load cell LCS-2160. Selanjutnya, sensor VL53l1x dipakai untuk mengukur tinggi badan pengguna.
+
+“Ada dua saklar inframerah bertipe E18-D80NK yang digunakan; satu untuk mendeteksi keberadaan pengguna dan satunya untuk mendeteksi gerakan tangan pengguna ketika menjawab pertanyaan selama proses anamnesis,” paparnya.
+
+ 
+
+Pemakaian Sensor
+Semua pembacaan sensor dikendalikan oleh Arduino untuk menjalankan perintah pengguna yang dibuat pada aplikasi komputer. Interaksi pengguna, proses triase, dan anamnesis, serta pembuatan laporan dilakukan oleh aplikasi komputer tersebut. Laporan medis akan dikirim secara otomatis ke akun email petugas medis.
+
+Operasional ARTA-1 ini terdiri dari beberapa tahapan yang harus dilalui oleh pengguna. Pertama dengan mendapatkan identitas melalui pemindaian E-KTP-nya. Tahap ini diperoleh data NIK, nama, tanggal lahir, dan umur. Tahap kedua memeriksa kondisi tubuh dengan mengukur suhu, berat badan, dan tinggi badan. Sedangkan tahap ketiga dengan melakukan tes anamnesis, kemudian mengkonversi biner hasil tes tersebut. Langkah keempat adalah menampilkan hasil triase dan membuat dokumen, kemudian mengirimkannya ke paramedis untuk penanganan lanjut.
+
+Sistem instrumentasi pada ARTA-1 perlu dianalisis, karena hal tersebut dapat digunakan untuk menentukan performa pengukuran dan pengendalian sistem. Analisis ini dilakukan untuk setiap sensor yang digunakan pada sistem dengan metode karakterisasi yang berbeda-beda.
+
+“Karakterisasi sensor-sensor menggunakan dua parameter, yaitu akurasi dan presisi. Presisi adalah faktor yang menunjukkan seberapa konsisten suatu instrumen memberikan nilai tertentu dari beberapa pengukuran yang ditunjukkan dengan standar deviasi diperoleh dari setiap pengukuran,” imbuhnya.
+
+ 
+
+Akurasi
+Dalam hal pengukuran, akurasi merupakan faktor utama yang mempengaruhi performa sensor. Akurasi menunjukkan seberapa tepat suatu instrumen dalam memberikan suatu nilai tertentu yang diperoleh dari instrumen ukur yang sudah standar.
+
+“Perbandingan antara nilai standar dan nilai uji akan memberikan persen kesalahan dengan batas nilai 10 persen yang menunjukkan seberapa akurat pengukuran uji,” tandasnya.
+
+Perancangan sistem instrumentasi pada ARTA-1 memiliki performa yang cukup baik. Pengukuran suhu tubuh memiliki akurasi dan presisi lebih dari 99 persen. Pengukuran berat badan memiliki presisi pada level 86,60 persen, dan akurasi yang cukup tinggi yaitu 96,52 persen. Pengukuran berat badan juga menunjukkan performa yang baik dengan akurasi 98,53 persen dan presisi 94,92 persen.
+
+Sepasang sensor jarak jauh yang digunakan untuk mendeteksi gerakan tangan selama proses anamnesis menunjukkan performa yang bagus dan akurat pada jarak kurang dari 18 cm. Penggunaan sensor tersebut dipertimbangkan berdasarkan kebutuhan pemeriksaan triase yang aman, nyaman, dan tanpa sentuhan bagi orang yang terpapar COVID-19. Tentunya ini memudahkan pekerjaan petugas medis, serta mengurangi resiko paparan COVID-19.(*)(pm/wil)","[-0.03333463  0.00344968 -0.03333463 ...  0.02673574 -0.04315361
+  0.0018524 ]",[4.]
+"Dosen Teknik Industri: SUVA Merupakan Teknologi Air Tawar untuk Mendeteksi Karsinogenik Awal Sepanjang Bantaran Sungai
+September 23, 2021
+
+FTMM NEWS – Pada era industri 4.0 bukan hanya teknologi super maju dan canggih yang harus di terapkan, namun juga faktor sustainability. Hal ini menjadi tujuan yang harus tercapai demi keberlangsungan hidup manusia dan alam semesta pada masa mendatang.
+
+Air merupakan salah satu sumber kehidupan yang penting bagi makhluk hidup, dan harus di jaga kualitasnya. Sayangnya, realita  hampir di sepanjang bantaran sungai di Indonesia, terutama kota besar menyuguhkan fenomena yang miris. Seperi halnya kualitas air yang buruk dan bau menyengat.
+
+Menurut Affiani Machmudah, Ph.D, selaku dosen Teknik Industri (TI) Fakultas Teknologi Maju dan Multidisplin Universitas Airlangga, untuk menguji kualitas air sungai memerlukan metode penelitian dan pengujian sampel air. Salah satunya, dalam penelitiannya yang menguraikan satu metode Specific Ultra Violet Absorbance (SUVA).
+
+“Ini adalah metode untuk mendeteksi kadar karsinogenik air tawar. Karsinogenik dalam air dapat terlihat secara akurat dengan memilih metode sesuai dari alternatif yang tersedia,” jelas Affie pada Rabu (22/9/2021).
+
+Metode
+Metode ini, sambung Affie, merupakan penentuan karbon organik total dan absorbansi Ultra Violet spesifik pada 254 nm dalam sampel air. Hal itu terhitung sebagai rasio UVA 254 (pada 1 cm dari panjang jalur sel kuarsa) terhadap total karbon organik, Total Organic Carbone.
+
+SUVA akan berguna untuk memperkirakan persentase kandungan karbon aromatik dari asam humat. Hal ini merupakan indikator aromatik dan reaktivitas kimiawi untuk sampel bahan organik akuatik dari berbagai sumber air.
+
+“Penelitian Dr. Teh Sabariah Abd Manan dan tim dapat menjadi acuan pengidentifikasian senyawa karsinogenik di sungai air tawar menggunakan metode SUVA. Risetnya berlangsung di sungai Perak, Malaysia,” ujarnya.
+
+Pengambilan sampel menggunakan botol amber (1L). Botol tersebut dicuci terlebih dahulu dengan menggunakan deterjen bebas fosfat dan asam nitrat 1 mol (HNO3), serta dibilas dengan air keran di antara interval.
+
+Botol dibilas dengan sampel air sebelum diisi dengan air sampel untuk dikumpulkan dan disimpan di ruang dingin pada suhu 4° C. Pengukuran TOC menggunakan alat penganalisis TOC berbasis pembakaran katalitik (TOC-50 0 0, Shimadzu, Jepang).
+
+Absorbansi Ultra Violet ditentukan dengan menggunakan spektrofotometer pemindaian UV-VIS (T80, Oasis Scientific Incorporation, US) dengan sel 1 cm pada panjang gelombang 254 nm. Sebagai rasio UVA 254 ke TOC. Penyaringan sampel menggunakan kertas saring (Whatman, No. 1) sebelum dituangkan ke dalam botol spektrofotometer (1 ml). Absorbansi ultraviolet (A / cm) diukur pada 254 nm.
+
+Hasil
+“Hasil laboratorium menunjukkan bahwa nilai SUVA 254 air tawar di lembah sungai Perak telah melebihi nilai standar kualitas air yang setara dengan 2,0 L/mg-m oleh Environmental Protection Agency (EPA) Amerika Serikat,” tandasnya.
+
+Nilai yang melebihi itu merupakan indikasi adanya sebagian besar senyawa aromatik di dalam air. Analisis kualifikasi membuktikan adanya polutan air pada konsentrasi yang berbahaya bagi kesehatan masyarakat di sampel air tawar daerah aliran sungai Perak. Dengan demikian, perlu penelitian dan tindakan lebih lanjut untuk alternatif pengolahan air yang lebih baik di wilayah sungai Perak.
+
+Pengambilan sampel berlangsung di cekungan Sungai Perak yang berada di negara bagian Perak, di Semenanjung Malaysia. Hamparan sungai ini berfungsi sebagai pengambilan air untuk keperluan domestik, pertanian, dan industri di wilayah Perak Tengah, Hilir Perak dan Manjung.
+
+Penelitian ini menunjukkan kadar karsinogenik pada air sungai Perak melebihi ambang batas normal. Air sungai ini umumnya bermanfaat untuk mengaliri persawahan. Maka, efek kandungan karsinogenik air pada komoditas pertanian yang menjadi konsumsi manusia menjadi topik penelitian lanjutan yang harus berlanjut.
+
+Semoga, penelitian tersebut dapat menjadi acuan uji karsinogenik sampel air di bantaran sungai. Penelitian ini menunjukkan, bahwa penelitian teknologi air tawar seperti pengikatan senyawa karsinogenik harus secara masif. Tujuannya untuk mencapai keberlanjutan kehidupan umat manusia dan alam semesta.(*)(wil)","[-0.02209286  0.02798429 -0.02237181 ...  0.01049969 -0.01785281
+  0.01712754]",[4.]
+"FTMM Raih Juara II Terbaik dalam Ajang Website Award 2023 UNAIR
+November 30, 2023
+
+FTMM NEWS – Universitas Airlangga (UNAIR) menggelar Website Award 2023 sebagai ajang apresiasi bagi seluruh unit yang terdapat di dalamnya. Penghargaan ini merupakan wujud pengakuan terhadap dedikasi, kontribusi, dan komitmen fakultas. Khususnya memberikan sekaligus menyediakan berbagai pelayanan dan informasi melalui situs web.
+
+Fakultas Teknologi Maju dan Multidisiplin (FTMM) tak pernah berhenti dalam mempertahankan prestasinya dengan meraih sejumlah penghargaan. Prestasi kali ini berhasil FTMM raih sebagai Juara II Website Terbaik Fakultas pada ajang Website Award 2023. Keberhasilan ini adalah buah dari dedikasi serta semangat tim FTMM yang tak pernah berhenti berkarya.
+
+Dedikasi dan Kreativitas
+Rizky Astari Rahmania, S.T., M.Sc selaku Dosen Teknik Industri, sekaligus Humas FTMM, mengungkapkan bahwa situs web FTMM dirancang untuk menyediakan informasi dan pelayanan yang komprehensif bagi masyarakat. Dengan fitur-fitur lengkap seperti profil FTMM, program, layanan akademik, berita, PPID FTMM, dan integrasi dengan berbagai platform seperti situs web UNAIR, Cyber Campus, e-learning, e-office, e-journal, perpustakaan, SIPARU, dan lainnya.
+
+Rizky menjelaskan bahwa situs web FTMM telah hadir sejak berdirinya fakultas tersebut. Tim yang bertanggung jawab, terdiri dari Aisyah Dewi Muthi’ah S.T M.T MBA, Amila Sofiah, S.T., M.T., dan Muhammad Noor Fakhruzzaman, S.Kom., M.Sc, dengan Chandrawati Putri Wulandari, S.T., M.T., MBA., Ph.D., sebagai ketua humas pada masa itu. Dengan dedikasi mereka, situs web FTMM berhasil berkembang hingga seperti saat ini.
+
+“Semua berita yang tayang pada website FTMM telah lolos SEO. Tahun ini kita berfokus pada kualitas artikel. Saat ini telah terdapat tim editor pada masing-masing prodi. Mahasiswa juga telah banyak yang berkontribusi memberikan artikel, tetapi belum terdapat tim mahasiswa secara resmi,” ucap Rizky.
+
+Upaya ke Depan
+
+Hingga saat ini, banyak penelitian dosen FTMM yang telah terpublish di jurnal-jurnal ilmiah, namun belum sepenuhnya tertuang menjadi artikel populer di situs web FTMM tahun ini. Rencananya, tahun mendatang, akan fokus lebih intens untuk menghadirkan artikel populer yang mengulas penelitian dosen tersebut.
+
+Rizky berharap agar ke depannya terbentuk tim khusus dari kalangan mahasiswa yang bertanggung jawab atas konten situs web. Setiap tahunnya, akan ada regenerasi tim, yang akan diawali dengan pelatihan bagi anggota tim. Proses ini diharapkan dapat memberikan kontribusi yang lebih aktif dan terkoordinasi dalam menyajikan informasi terbaru seputar penelitian dosen FTMM.
+
+Penulis: Maissy Ar Maghfiroh
+
+Editor: Andri Hariyanto","[-0.00763059 -0.03859002 -0.00741994 ... -0.0081414  -0.00708818
+  0.03976962]",[0.]
+"FTMM Sumbangkan Sepeda Listrik Dalam Pengmas Penugasan di Gili Iyang
+Maret 31, 2023
+
+FTMM NEWS – Pengabdian Masyarakat penugasan solar panel shelter dan sepeda listrik Fakultas Teknologi Maju dan Multidisiplin (FTMM) Universitas Airlangga,  dilaksanakan di Pulau Gili Iyang, Madura. Pengmas di pulau yang dikenal punya kadar oksigen tinggi ini  membawa dua tema proyek yang diketuai oleh dosen Prodi Teknik Elektro FTMM. Salah satu tema tersebut adalah “Sepeda Listrik dan Solar Panel Shelter for E-Bike Charging sebagai sarana mobilitas tenaga kesehatan puskesmas di Pulau Gili Iyang, Sumenep” yang diketuai oleh dosen Yoga Uta Nugraha, S.T., M.T.
+
+“Kami menciptakan sepeda listrik untuk mendukung kebutuhan kegiatan tenaga medis di puskesmas pembantu Desa Bancamara,” tutur Yoga Uta selaku ketua pengmas penugasan. 
+
+Sepeda listrik yang diberikan kepada pustu Desa Bancamara memiliki kapasitas baterai 36 Volt sehingga dapat menempuh jarak yang lebih jauh. Selain itu, dilengkapi layar display untuk menunjukkan indikator ketersediaan baterai pada sepeda listrik tersebut.  
+
+“Sepeda ini bisa dilipat sehingga mudah untuk dibawa kemana – mana. Lalu, kami tetap memasang pedal manualnya jadi kalau sewaktu – waktu baterai habis bisa diayun secara manual,” ujar Rayhan Akbar Xavier, selaku mahasiswa pembantu.
+
+Ray juga menambahkan jika sepeda listrik ini dapat diisi daya baterainya menggunakan solar panel shelter yang juga bagian dari proyek mereka. Solar panel shelter diletakkan di kawasan wisata Gua Canggah, Desa Banraas, Dungkek. Alat ini dilengkapi solar panel 50 WP-Mono, baterai lead acid 12 volt/50 Ampere hour, lampu LED, 3 port socket AC 220V AC dan 2 port socket DC 5 VDC.
+
+“Kami juga memikirkan sumber tegangan sepeda listrik ini jadi kami sekalian membawa solar panel shelter. Karena Pulau Gili Iyang sendiri masih menggunakan tenaga diesel untuk kebutuhan listrik mereka,” ujar M. Farhan Rizky, salah satu mahasiswa yang terlibat dari tim EV-OS. 
+
+Farhan menjelaskan jika penggunaan listrik yang digunakan warga Gili Iyang tidak berasal dari PLN melainkan menggunakan Pembangkit Listrik Tenaga Diesel (PLTD). Ketidaktercapaian PLN di pulau ini membuat warga Gili Iyang bergantian dalam menggunakan listrik mengingat kapasitas PLTD di pulau yang dikenal punya kadar oksigen baik ini terbatas. Sehingga sepeda listrik menjadi produk yang mendukung pada industri, inovasi dan infrastruktu. (ant/and)
+
+Kontributor : Antik Widi Anugrah, Mahasiswa Teknik Elektro","[ 0.00950462 -0.00156341 -0.02626186 ...  0.01317713 -0.03709459
+  0.01971372]",[0.]
+"Himano x SDGs UNAIR Dorong Zero Waste Lifestyle
+Oktober 4, 2023
+
+FTMM NEWS – Isu zero waste menjadi isu yang menarik dalam pengabdian masyarakat HIMANO x SDGs UNAIR. Pengabdian masyarakat ini berlangsung 16 dan 23 September 2023, di daerah Dukuh Sutorejo, Surabaya. 
+
+Mereka membawakan tema “Transformasi Limbah Organik Menjadi Energi Terbarukan: Mendorong Gerakan Zero Waste Lifestyle” melalui Pengolahan Biogas. Kegiatan-kegiatan yang mereka lakukan adalah sosialisasi mengenai jenis sampah, renewable energy dan SDGs serta praktek pembuatan reaktor biogas. Pada Pengabdian masyarakat ini, masyarakat yang ikut kegiatan ini  berjumlah 30 orang serta mahasiswa penyelenggara berjumlah 23 mahasiswa. 
+
+Aliyah, warga RW 05 Dukuh Sutorejo mengaku senang dengan adanya pengabdian masyarakat ini. Mereka bisa menambah ilmu tentang pengolahan sampah. Aliyah berharap semoga pengabdian masyarakat ini mendapat dukungan penuh. Bukan hanya dari kampus, tetapi juga dari pemerintah. 
+
+“Nantinya kita akan mengaplikasikan ilmu yang kita dapat sehingga daerah lingkungan daerah kita dapat lebih bersih,” ujar Aliyah.
+
+
+Harapannya dengan pengabdian ini dapat membuka mata masyarakat tentang pentingnya pengolahan limbah. Pengolahan limbah sangatlah penting bagi masyarakat. Jika mereka mampu menerapkan pengolahan limbah ini, bukan tidak mungkin Surabaya mencapai kota tanpa limbah. 
+
+Sementara itu, zero waste sebagai suatu gerakan untuk tidak menghasilkan sampah dengan cara mengurangi kebutuhan, menggunakan kembali, mendaur ulang. Gerakan ini tidak melibatkan pembakaran maupun penimbunan seperti yang pada umumnya dilakukan pada limbah. Dengan begitu, maka dapat melestarikan dan memulihkan semua sumber daya.
+
+Kegiatan pengmas zero waste sejalan dengan komitmen  FTMM mendukung poin 2 SDGs, “Zero Hunger”.
+
+Penulis : Muhammad Kahlil Gibran 
+
+Editor : Andri Hariyanto","[ 0.00742413  0.00490691 -0.00012155 ...  0.02690207 -0.00931482
+ -0.01194292]",[4.]
+"Mitra Kolaborasi Penelitian FTMM
+
+PT. Tancorp Abadi Nusantara
+Nomor UNAIR: 08/UN3/HK.07.00/2021
+Nomor PT. Tancorp: 06/SKE/TAN/POD/01/2021
+Judul Kerjasama : NOTA KESEPAHAMAN ANTARA UNIVERSITAS AIRLANGGA DENGAN PT TANCORP ABADI NUSANTARA
+
+PT. Wijaya Karya (Persero) Tbk.
+Nomor UNAIR: 25/UN3/HK.07.00/2021
+Nomor PT. Wijaya Karya: TP.01.03/A.DIR.00235/2021
+Judul : NOTA KESEPAHAMAN ANTARA UNIVERSITAS AIRLANGGA DAN PT WIJAYA KARYA (Persero) Tbk
+
+PT. Surya Utama Nuansa
+Nomor UNAIR: 44/UN3/HK.07.00/2021
+Nomor PT. SUN: G.10/SUN-UNAIR/MoU/III/2021
+Judul : Kerjasama Penyelenggaraan Tridarma Perguruan Tinggi
+
+PT. Pembangkitan Jawa-Bali (PT. PJB)
+Nomor UNAIR: 222/UN3/HK.07.00/2020
+Nomor PT. Pembangkitan Jawa-Bali (PT. PJB) : 039.PJ/061/PJB0UNAIR/XII/2020
+Judul : Pendidikan, Pelatihan Sumber Daya Manusia, Penelitian dan Pengembangan Ilmu Pengetahuan untuk Menunjang Peningkatan Kualitas Sumber Daya Manusia Serta Pelaksanaan Program Penelusuran Minat dan Kemampuan
+
+PT. Sinergi Inti Berkah Investama (Goolive)
+Nomor UNAIR: 72/UN3/HK.07.00/2022
+Nomor PT. Sinergi Inti Berkah Investama (Goolive): 009/17/HR/III/2022
+Judul : Kerjasama Penyelenggaraan Tridarma Perguruan Tinggi
+
+PT. Terminal Elektronika Sekawan (PT. TES)
+Nomor FTMM: 470/UN3.1.17/KS/2022
+Nomor PT. Terminal Elektronika Sekawan (PT. TES): 057/PKS-TES/IV/2022
+Judul : Pendidikan, Penelitian, dan Pengabdian kepada Masyarakat, serta Pemanfaatan Sumber Daya untuk Penyempurnaan Kurikulum sesuai Kebutuhan Industri
+
+PT. Sinergi Inti Berkah Investama (Goolive)
+Nomor FTMM: 477/UN3.1.17/KS/2022
+Nomor PT. Sinergi Inti Berkah Investama (Goolive): 002/17/HR/V/2022
+Judul : Implementasi Merdeka Belajar dan Kampus Merdeka dalam Kegiatan Tri Dharma PT
+
+PT. Pembangkitan Jawa-Bali (PT. PJB)
+Nomor UNAIR: 258/UN3/HK.07.00/2021
+Nomor PT. Pembangkitan Jawa-Bali: 006.PJ/061/PJB-UNAIR/XII/2021
+Judul : Pendirian Research Center for New and Renewable Energy (RCeNREE)
+
+PT. Aria Agri Indonesia
+Nomor FTMM: 1745/UN3.1.17/KS/2022
+Nomor PT. Aria Agri Indonesia:14.001/ARIA/HR/VIII/2022
+Judul : Program Kampus Merdeka
+
+PT. Adhikara Wiyasa Gani
+Nomor FTMM: 90/UN3.1.17/KS/2022
+Nomor PT. Adhikara Wiyasa Gani: 23/SP.01/ADH/II/2022
+Judul : Kerjasama dalam Pelaksanaan Merdeka Belajar Kampus Merdeka","[-0.05622058 -0.01397944  0.05622058 ...  0.00376612 -0.02664674
+  0.03083552]",[0.]
+"Partnership FTMM
+PLN Nusantara Power
+SUN Energy
+TanCorp
+Terminal Elektronika Sekawan
+TESTINDO
+Universitas Brawijaya
+
+Keyword: Kerjasama, Perusahaan, Partnership, Praktisi","[-0.06153918  0.01901339  0.04404053 ... -0.01424309 -0.0151248
+  0.02556973]",[0.]
+"Profil Program Studi
+Rekayasa Nanoteknologi 
+Visi
+Menjadi program studi yang unggul dan terdepan dalam menyiapkan sumber daya manusia sekaligus pengembangan ilmu di bidang nanoteknologi medis, nanoteknologi energi dan lingkungan, industri nanoteknologi dan komputasi nanoteknologi untuk kepentingan masyarakat luas. 
+Misi
+Menyelenggarakan pendidikan Sarjana Program Rekayasa Nanoteknologi secara profesional dan berkualitas dengan berdasarkan perkembangan ilmu pengetahuan serta kebutuhan pasar secara global.
+Mengembangkan ilmu pengetahuan melalui penelitian laboratorium di bidang nanoteknologi.
+Melaksanakan pengabdian masyarakat sebagai salah satu bentuk tanggung jawab sosial demi kesejahteraan masyarakat luas.
+Melakukan dan meningkatkan kerjasama pendidikan dan penelitian dengan berbagai institusi baik di dalam maupun luar negeri dengan mempertimbangkan aspek kesetaraan dan keberlanjutan
+Gelar Lulusan
+S.T. (Sarjana Teknik)
+Deskripsi Program Studi
+
+Program Studi S-1 Rekayasa Nanoteknologi merupakan program studi di Indonesia yang relatif baru dan unik yang terfokus ke studi mengenai nanoteknologi. Di program studi ini, mahasiswa akan mempelajari tentang berbagai bidang ilmu nanoteknologi yang fundamental, yaitu Kimia, Fisika, Biologi, keteknikan, dan juga fabrikasi, yang termasuk di dalamnya desain dan aplikasi nanomaterial di bidang Kesehatan, industri, lingkungan, dll. Dengan fasilitas yang memadai seperti ruang kelas, laboratorium, dan instrumen lab, dan juga didukung oleh Â kurikulum yang dirancang dengan baik, mahasiswa akan mendapatkan keahlian untuk berfikir kritis, bekerja sama dalam tim, dan penyelesaian masalah, yang kesemuanya sangat diperlukan di dunia kerja. Program studi ini juga didukung oleh kolaborasi yang sangat kuat di bidang akademik dan riset dengan banyak institusi lain baik di dalam maupun luar negeri demi selalu meningkatkan kegiatan belajar mengajar.
+Pelaksanaan Program
+Purnawaktu
+Pelaksanaan Perkuliahan
+
+Didalam Kampus
+Periode Penerimaan
+
+Bulan Juli setiap Tahun
+Durasi Studi
+
+4 tahun (8 semester)
+Akreditasi
+
+Badan Akreditasi Nasional Perguruan Tinggi (BAN-PT) dengan predikat Baik
+
+Prospek Lulusan
+
+Rekayasa Nanoteknologi memiliki beberapa kesempatan karir seperti menjadi :1. Peneliti2. Entrepreneur3. Akademisi4. Tenaga Ahli/Manajer/Supervisior5. Konsultan
+
+","[-0.00933226  0.01677754  0.0126907  ... -0.00261782 -0.01843964
+  0.02409082]",[3.]
+"toping off FTMM pada 20 Juni 2020
+Pelantikan Dekan FTMM dilakukan pada 1 Oktober 2020
+
+Fakultas Teknologi Maju dan Multidisiplin (FTMM), yang semula bernama Sekolah Teknologi Maju dan Multidisiplin, didirikan pada November 2019 dengan 5 program studi S1, antara lain: Teknik Robotika dan Kecerdasan Buatan, Teknologi Sains Data, Rekayasa Nanoteknologi, Teknik Industri, dan Teknik Elektro. 
+
+FTMM hadir dan melengkapi 3 pilar utama Universitas Airlangga (social science, life science, dan health science) dengan pilar baru di bidang keteknikan (engineering). Mahasiswa angkatan pertama FTMM berjumlah kurang lebih 400 mahasiswa. Kami akan terus berusaha memberikan yang terbaik dalam fasilitas pendidikan, dan membuka kesempatan kepada mahasiswa kami untuk dapat berkontribusi pada kemajuan teknologi.
+Keyword: Pendirian, Sejarah, Awal, Mula, Terbentuk","[-0.01855536 -0.00193307  0.0185868  ...  0.00252504 -0.01432252
+  0.00979631]",[0.]
+"Staf Dosen Program StudiTeknik Robotika dan Kecerdasan Buatan 
+Koordinator Program Studi Teknik Robotika dan Kecerdasan Buatan 
+Purbandini, S.Si., M.Kom. 
+
+Staf Dosen Prodi Teknik Robotika dan Kecerdasan Buatan
+Amila Sofiah, S.T., M.T. 
+Rodik Wahyu Indrawan, S.ST., M.Tr.T. 
+Rizki Putra Prastio, S.Si, M.T. 
+Asif Ali Zamzami, S.ST, M.Sc., Ph.D. (Cand) 
+Sylmina Dalily Alkaff, S.T, M.Sc., Ph.D. (Cand) 
+Yutika Amelia Effendi, S.Kom., M.Kom., Ph.D. (Cand) 
+Muhammad Aldo Setiawan, S.Si., M.Sc (Eng). 
+Ali Ikhsanul Qauli, S.Si., M.Eng, Ph.D. (Cand) 
+Dr. Eng. Ananta Adhi Wardana ","[ 0.02363846  0.01765842 -0.0050944  ... -0.01363924 -0.0262168
+ -0.0072367 ]",[1.]
+"Staf Dosen Prodi Rekayasa Nanoteknologi 
+
+Koordinator Program Studi Rekayasa Nanoteknologi 
+
+Prof. Dr. Dra. Retno Sari, MSc., Apt 
+Dosen Prodi
+Prastika Krisma Jiwanti, S.Si., MSc.Eng., Ph.D 
+Ilma Amalina, S.Si., M.Si., Ph.D. 
+Fadjar Mulya, S.Si., M.Sc 
+Dr. Raden Joko Kuncoroningrat Susilo, S.Si., M.Si. 
+Tahta Amrillah, S.Si., M.Sc., Ph.D 
+Dr. Eng. Moch. Lutfi Firmansyah, S.Si., M.Phil. 
+Mirza Ardella Saputra, S.Si., M.Sc., Ph.D 
+Dr. Suhailah Hayaza, S.Si., M.Si. 
+","[ 0.00653803 -0.01349652  0.0156093  ... -0.00941288 -0.01940388
+  0.00133822]",[1.]
+"
+Staf Dosen Program StudiTeknik Industri 
+Koordinator Program Studi Teknik Industri 
+Chandrawati Putri Wulandari, S.T., M.T., MBA., Ph.D.
+Aisyah Dewi Muthiâ€™ah S.T M.T MBA
+Shofa Aulia Aldhama S.T.,M.T
+Rizky Astari Rahmania, S.T., M.Sc 
+Gunawan Setia Prihandana, Ph.D
+Dr. Niko Azhari Hidayat, Sp.BTKV(K)
+Kartika Nur â€˜Anisaâ€™, S.Si., MBA., Ph.D.
+","[-0.02282832 -0.02893672  0.00276494 ... -0.02620566 -0.04840855
+  0.01256079]",[1.]
+" 
+Staf Dosen Program StudiTeknologi Sains Data 
+Koordinator Program Studi Teknologi Sains Data 
+Dr. Dwi Rantini, S.Si. 
+Staf Dosen Prodi Teknologi Sains Data
+Muhammad Noor Fakhruzzaman, S.Kom., M.Sc. 
+Ratih Ardiati Ningrum, S.Si., M.Stat. 
+Mohammad Ghani, S.Si., M.Si., Ph.D. 
+Dr. Maryamah, S.Kom 
+Indah Fahmiyah, S.Si., M.Stat. 
+Ika Qutsiati Utami, S.Kom., M.Sc. Ph.D (Cand) 
+Dr. (Cand) Septia Devi Prihastuti Yasmirullah, S.Si ","[-0.00724483 -0.00073763  0.02132302 ... -0.02264594 -0.03529183
+  0.01462507]",[1.]
+"Teknik Elektro â€“ Program Studi 
+
+Profil Program StudiTeknik Elektro 
+Visi
+Menjadi program studi sarjana Teknik Elektro yang inovatif, unggul, dan terkemuka tingkat nasional dan internasional serta berperan dalam aktif dalam usaha mensejahterakan bangsa berdasar moral agama 
+
+Misi
+Mengembangkan pendidikan dan penelitian di bidang Teknik Elektro sehingga menghasilkan lulusan yang bereputasi internasional.
+Berkontribusi nyata untuk menerapkan teknologi yang tepat dan modern di masyarakat nasional dan internasional.
+
+Deskripsi Program Studi
+
+Program Studi S-1 Teknik Elektro Universitas Airlangga berfokus pada penerapkan pengetahuan keteknikan untuk mendapatkan pemahaman menyeluruh tentang prinsip-prinsip keteknikan. Dalam program studi ini, mahasiswa akan belajar mengenai pengetahuan inti (core knowledge) bidang teknik elektro termasuk rangkaian elektrik, sistem dan sinyal, sistem digital, elektromagnetik, dan elektronika. Selain itu mahasiswa juga akan belajar mengenai pengetahuan keluasan (breadth knowledge) yang mencakup sejumlah topik kerekayasaan pada bidang teknik ketenagalistrikan, sistem control, system telekomunikasi, elektronika dan sistem computer. Program Studi S-1 Teknik Elektro Universitas Airlangga memiliki 2 peminatan yaitu Teknik sistem tenaga dan Teknik sistem pengaturan. Dengan kurikulum Teacher Centered Learning dan Student Centered Learning (Presentasi, Diskusi, Video Pembelajaran, Seminar, Project Based Learning dan Study Case learning) dan dilengkapi dengan fasilitas yang mendukung pembelajaran, mahasiswa akan mendapatkan pengetahuan dan kemampuan di bidang Teknik elektro untuk berkontribusi nyata dalam penerapan teknologi yang tepat guna dan modern serta menghasilkan lulusan yang bereputasi internasional.
+Gelar Lulusan
+
+Sarjana Teknik (S.T.)
+Pelaksanaan Program
+
+Purnawaktu
+
+Pelaksanaan Perkuliahan
+
+Di Dalam Kampus
+
+Periode Penerimaan
+
+Bulan Juli setiap Tahun
+Durasi Studi
+
+4 tahun (8 semester)
+
+Akreditasi
+
+Terakreditasi Badan Akreditasi Nasional Perguruan Tinggi (BAN-PT)
+
+Prospek Lulusan
+
+Teknik Elektro memiliki beberapa kesempatan karir seperti menjadi :1. Teknik Ketenagalistrikan2. Teknik Kendali3. Teknik Telekomunikasi4. Teknik Komputer5. Elektronika
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+				Copyright Â© 2023 FTMM UNAIR. All Right Reserved.					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+031-59182123
+
+
+
+
+
+ 
+info@ftmm.unair.ac.id
+
+
+
+
+
+ 
+Gedung Kuliah Bersama, Kampus C UNAIR Kota Surabaya
+
+
+
+
+
+
+
+
+
+
+
+
+
+Media Sosial Kami 
+
+
+
+
+
+
+Instagram
+ 
+
+
+
+Youtube
+ 
+
+
+
+Twitter
+ 
+
+
+
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+X
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+","[-0.02351972 -0.00298211 -0.03578538 ... -0.02788225 -0.03833546
+  0.02539539]",[3.]
+"Teknik Industri â€“ Program Studi 
+Profil Program StudiTeknik Industri 
+Visi
+Visi dari Program Studi Teknik Industri Universitas Airlangga adalah menjadi program studi yang unggul dan bermartabat dalam hal pendidikan, penelitian, dan pengabdian masyarakat terkait bidang keilmuan teknik industri di tingkat internasional, berdasarkan moral agama. 
+Misi
+Melaksanakan program pendidikan bidang Teknik Industri yang selaras dengan aspek  keilmuan, perkembangan zaman, berlandaskan moral beragama serta berbangsa.
+Melaksanakan penelitian baik dalam pengembangan metode dan aplikasi pada bidang  advanced manufacturing, ergonomi, dan rekayasa sistem yang berorientasi pada aplikasi dan  pengembangan keilmuan Teknik Industri secara luas.
+Membantu memecahkan permasalahan yang terjadi di masyarakat dengan  mengimplementasikan keilmuan Teknik Industri melalui program pengabdian kepada  masyarakat. 
+Membangun hubungan kerjasama dengan berbagai sektor di tingkat nasional dan  internasional dalam melakukan pendidikan, penelitian dan pengabdian masyarakat terkait  keilmuan Teknik Industri
+Deskripsi Program Studi
+
+Program Studi S-1 Teknik Industri merupakan program studi yang berfokus pada desain, perbaikan, dan implementasi sistem terintegrasi yang terdiri atas manusia, bahan baku, informasi, peralatan, dan energi. Di program studi ini, mahasiswa akan belajar mengenai berbagai bidang dalam ilmu Teknik Industri, antara lain Rekayasa Sistem, Faktor Manusia dan Ergonomi, serta Sistem Manufaktur. Dengan fasilitas yang memadai dan kurikulum yang dirancang dengan baik, mahasiswa akan mendapatkan skill untuk berpikir sistemik, bekerja sama dalam tim, dan memecahkan masalah, yang dapat menjadi bekal bagi lulusan untuk bersaing di dunia kerja.
+
+Gelar Lulusan
+
+Sarjana Teknik (S.T.)
+Pelaksanaan Program
+
+Purnawaktu
+Pelaksanaan Perkuliahan
+
+Di Dalam Kampus
+Periode Penerimaan
+
+Bulan Juli setiap Tahun
+Durasi Studi
+
+4 tahun (8 semester)
+Akreditasi
+
+Badan Akreditasi Nasional Perguruan Tinggi (BAN-PT) dengan predikat Baik
+rospek Lulusan
+
+Lulusan Program Sarjana Teknik Industri Universitas Airlangga akan memiliki gelar sarjana teknik (S.T) dengan kemampuan:Menerapkan pengetahuan dan keterampilan dalam disiplin keilmuan Teknik Industri secara efektif untuk melakukan perbaikan dan perancangan sistem untuk meningkatkan produktivitas dan kualitas luaran sistem;Berkomunikasi secara efektif serta mampu bekerja secara individu maupun tim.;Melakukan pembelajaran mandiri sepanjang hayat dalam mengembangkan pengetahuan dan keterampilan diri, serta keprofesiannya.
+","[-0.00763114  0.04554457 -0.02448828 ... -0.00565269 -0.03534953
+  0.02287322]",[3.]
+"Profil Program Studi
+Teknologi Sains Data
+Visi
+Pada tahun 2030 menjadi sebuah Program Studi S1 Teknologi Sains Data yang unggul di Indonesia dalam penerapan sains data pada bidang kesehatan, sosial dan komunikasi, industri, serta bisnis dan finansial untuk mendukung perkembangan masyarakat ilmiah yang cerdas/unggul dan berbudi pekerti luhur/bermoral karimah.
+
+
+
+Misi
+Menyelenggarakan pendidikan di bidang Teknologi Sains Data yang berstandar nasional dan internasional agar mahasiswa mampu untuk berpikir kritis, berwawasan global, dan mengembangkan keterampilan dalam menjawab tantangan global
+Menyelenggarakan penelitian dan pengembangan ilmu di bidang Teknologi Sains Data yang berstandar nasional dan internasional di bidang kesehatan, sosial dan komunikasi, industri, serta bisnis dan finansial
+Menyelenggarakan pengabdian kepada masyarakat yang menunjang penerapan dan pengembangan ilmu Teknologi Sains Data yang dapat mendukung perkembangan masyarakat dengan ilmiah, cerdas dan bermoral agama serta meningkatkan kesejahteraan masyarakat
+
+Deskripsi Program Studi
+Sains data adalah suatu disiplin ilmu yang mengintegrasikan ilmu matematika, statistika, dan komputer yang mempelajari tentang data skala besar atau disebut dengan Big Data. Data besar tersebut disebabkan oleh adanya peningkatan secara jumlah, variasi, dan kecepatan yang dihasilkan oleh teknologi terkini yang semakin berkembang. Untuk dapat mengolah data besar tersebut, dibutuhkan keahlian sains data sehingga menghasilkan wawasan dan informasi yang bermanfaat. Keahlian ini semakin banyak digunakan di berbagai bidang, seperti di bidang kesehatan, sosial dan komunikasi, industri, serta bisnis dan finansial.
+
+Gelar Lulusan
+Sarjana Sains Data (S.T)
+
+Pelaksanaan Program
+Purnawaktu
+
+Pelaksanaan Perkuliahan
+Di Dalam Kampus
+
+Periode Penerimaan
+Bulan Juli setiap Tahun
+
+Durasi studi
+4 tahun (8 semester)
+
+Prospek Lulusan
+Teknologi Sains Data memiliki beberapa kesempatan karir seperti menjadi :
+
+1. Konsultan
+
+2. Entrepreneur
+
+3. Data Analis
+
+4. Ilmuwan Data
+
+5. Akademisi","[-0.03031377  0.01371708  0.02774546 ... -0.01034131 -0.01852292
+  0.03043051]",[3.]
+"Tenaga Kependidikan 
+Profil Tenaga KependidikanFakultas Teknologi Maju dan Multidisiplin 
+Kepala Bagian Tata Usaha 
+Dwi Sulistyarini, S.H 
+Kepala Subbagian Sarana dan Prasarana 
+Boedi Rahardjo, S.Sos 
+Vinanci Intan Widriani, S.M 
+Dian Kriswanto 
+Mirna Putri Anggraeni, S.Si 
+Yunus Rizki Setiawan, S.EI. 
+Andri Hariyanto, S.Sos 
+Yuliana Ariandini Ayuningtiyas, S.IIP 
+Yulia Noor Azizah, S.Sosio. 
+Mohammad Ichsan Herdito 
+Kepala Subbagian SDM dan Keuangan 
+Wilujeng Noorfianti,S.E 
+Wikca Pratita, S.M., M.SM 
+Erzalina Ayu Satya Megananda, S.Si 
+R. Muhammad Akbar Bagus Prakoso, Amd.Bns 
+Kepala Subbagian Akademik dan Kemahasiswaan 
+Nurina Oktiviani, S.E 
+Andy S. Nugroho, S.Kom 
+Ahmad Dwi Cahya Oktavian, S.T 
+Zuhairrizqi Elfad, S.Tr.T 
+Novianti Nurfauzjiah, S.Si. 
+Devi Ruchmana Rachmawati, S.Si., M.Si. 
+Dhini Dwi Kartikawati, A.Md. Lib. 
+M. Farras Taufiq Atsany, S.T 
+Vivin Safitri, S.T 
+Eliesa Chusnul Aulia, S.M 
+Fivien Agustina, S.Si. 
+Winda Aprilliana, M.T. 
+","[ 0.00172753 -0.01933814  0.01646231 ... -0.0072861  -0.03887952
+ -0.00353889]",[1.]

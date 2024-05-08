@@ -1,0 +1,34 @@
+Dosen Teknik Industri: SUVA Merupakan Teknologi Air Tawar untuk Mendeteksi Karsinogenik Awal Sepanjang Bantaran Sungai
+September 23, 2021
+
+FTMM NEWS – Pada era industri 4.0 bukan hanya teknologi super maju dan canggih yang harus di terapkan, namun juga faktor sustainability. Hal ini menjadi tujuan yang harus tercapai demi keberlangsungan hidup manusia dan alam semesta pada masa mendatang.
+
+Air merupakan salah satu sumber kehidupan yang penting bagi makhluk hidup, dan harus di jaga kualitasnya. Sayangnya, realita  hampir di sepanjang bantaran sungai di Indonesia, terutama kota besar menyuguhkan fenomena yang miris. Seperi halnya kualitas air yang buruk dan bau menyengat.
+
+Menurut Affiani Machmudah, Ph.D, selaku dosen Teknik Industri (TI) Fakultas Teknologi Maju dan Multidisplin Universitas Airlangga, untuk menguji kualitas air sungai memerlukan metode penelitian dan pengujian sampel air. Salah satunya, dalam penelitiannya yang menguraikan satu metode Specific Ultra Violet Absorbance (SUVA).
+
+“Ini adalah metode untuk mendeteksi kadar karsinogenik air tawar. Karsinogenik dalam air dapat terlihat secara akurat dengan memilih metode sesuai dari alternatif yang tersedia,” jelas Affie pada Rabu (22/9/2021).
+
+Metode
+Metode ini, sambung Affie, merupakan penentuan karbon organik total dan absorbansi Ultra Violet spesifik pada 254 nm dalam sampel air. Hal itu terhitung sebagai rasio UVA 254 (pada 1 cm dari panjang jalur sel kuarsa) terhadap total karbon organik, Total Organic Carbone.
+
+SUVA akan berguna untuk memperkirakan persentase kandungan karbon aromatik dari asam humat. Hal ini merupakan indikator aromatik dan reaktivitas kimiawi untuk sampel bahan organik akuatik dari berbagai sumber air.
+
+“Penelitian Dr. Teh Sabariah Abd Manan dan tim dapat menjadi acuan pengidentifikasian senyawa karsinogenik di sungai air tawar menggunakan metode SUVA. Risetnya berlangsung di sungai Perak, Malaysia,” ujarnya.
+
+Pengambilan sampel menggunakan botol amber (1L). Botol tersebut dicuci terlebih dahulu dengan menggunakan deterjen bebas fosfat dan asam nitrat 1 mol (HNO3), serta dibilas dengan air keran di antara interval.
+
+Botol dibilas dengan sampel air sebelum diisi dengan air sampel untuk dikumpulkan dan disimpan di ruang dingin pada suhu 4° C. Pengukuran TOC menggunakan alat penganalisis TOC berbasis pembakaran katalitik (TOC-50 0 0, Shimadzu, Jepang).
+
+Absorbansi Ultra Violet ditentukan dengan menggunakan spektrofotometer pemindaian UV-VIS (T80, Oasis Scientific Incorporation, US) dengan sel 1 cm pada panjang gelombang 254 nm. Sebagai rasio UVA 254 ke TOC. Penyaringan sampel menggunakan kertas saring (Whatman, No. 1) sebelum dituangkan ke dalam botol spektrofotometer (1 ml). Absorbansi ultraviolet (A / cm) diukur pada 254 nm.
+
+Hasil
+“Hasil laboratorium menunjukkan bahwa nilai SUVA 254 air tawar di lembah sungai Perak telah melebihi nilai standar kualitas air yang setara dengan 2,0 L/mg-m oleh Environmental Protection Agency (EPA) Amerika Serikat,” tandasnya.
+
+Nilai yang melebihi itu merupakan indikasi adanya sebagian besar senyawa aromatik di dalam air. Analisis kualifikasi membuktikan adanya polutan air pada konsentrasi yang berbahaya bagi kesehatan masyarakat di sampel air tawar daerah aliran sungai Perak. Dengan demikian, perlu penelitian dan tindakan lebih lanjut untuk alternatif pengolahan air yang lebih baik di wilayah sungai Perak.
+
+Pengambilan sampel berlangsung di cekungan Sungai Perak yang berada di negara bagian Perak, di Semenanjung Malaysia. Hamparan sungai ini berfungsi sebagai pengambilan air untuk keperluan domestik, pertanian, dan industri di wilayah Perak Tengah, Hilir Perak dan Manjung.
+
+Penelitian ini menunjukkan kadar karsinogenik pada air sungai Perak melebihi ambang batas normal. Air sungai ini umumnya bermanfaat untuk mengaliri persawahan. Maka, efek kandungan karsinogenik air pada komoditas pertanian yang menjadi konsumsi manusia menjadi topik penelitian lanjutan yang harus berlanjut.
+
+Semoga, penelitian tersebut dapat menjadi acuan uji karsinogenik sampel air di bantaran sungai. Penelitian ini menunjukkan, bahwa penelitian teknologi air tawar seperti pengikatan senyawa karsinogenik harus secara masif. Tujuannya untuk mencapai keberlanjutan kehidupan umat manusia dan alam semesta.(*)(wil)
